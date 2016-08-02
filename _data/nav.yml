@@ -1,5 +1,5 @@
 main:
     - { url: '/', text: 'Home' }
     - { url: '/about', text: 'About' }
-    - { url: '/resources', text: 'Resources' }
+    - { url: '/raising-parents/resources', text: 'Resources' }
     - { url: '/contact', text: 'Contact' }
