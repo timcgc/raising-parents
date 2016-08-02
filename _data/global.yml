@@ -1,7 +1,7 @@
 # Site Settings
 title: 'Raising Parents'
 description: 'A commonground website'
-url: 'https://timcgc.github.io/' # the base hostname & protocol for your site
+url: 'https://timcgc.github.io/raising-parents/' # the base hostname & protocol for your site
 footer_text: 'This text is footer text. Footer text goes here.'
 
 # Admin Settings
